@@ -17,8 +17,8 @@ cd insfollow
 bash insfollow.sh
 ```
 
-###DON'T FORGET FOLLOW MY INSTAGRAM ACCOUNT
+### DON'T FORGET FOLLOW MY INSTAGRAM ACCOUNT
 
-(https://www.instagram.com/cracked_212/)
+https://www.instagram.com/cracked_212/
 
 ### ENJOY!
