@@ -1,5 +1,5 @@
 #!/bin/bash
-# Inshackle version 1
+# Insfollow version 1
 # coded by: @MR.CRACKED
 # github.com/icammaci/insfollow
 # If you use any part from this code, give me the credits, please, read the License
